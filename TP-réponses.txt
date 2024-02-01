@@ -1,0 +1,6 @@
+TP – Fonctions - Paramètres
+1. Pour se positionner, faire cd [Nom du Dossier].
+2. Pour cloner le dépôt, ouvrir un terminal et exécutez la commande suivante: git clone https://github.com/dev-HR/B1-Asla-Fonctions-2.git .
+3. Pour se positionner , faire la commande cd B1-Asla-Fonctions-2
+4. Pour éditer le fichier, faire geany asla-fonctions-02.php
+-------------------Exercice 1 : -------------------
