@@ -3,4 +3,45 @@ TP – Fonctions - Paramètres
 2. Pour cloner le dépôt, ouvrir un terminal et exécutez la commande suivante: git clone https://github.com/dev-HR/B1-Asla-Fonctions-2.git .
 3. Pour se positionner , faire la commande cd B1-Asla-Fonctions-2
 4. Pour éditer le fichier, faire geany asla-fonctions-02.php
--------------------Exercice 1 : -------------------
+-------------------Exercice 1 : Afficher la liste des produits -------------------
+5.
+6.
+7.
+-------------------Exercice 2 : Afficher les produits en promotion -------------------
+8.
+9.
+10.
+-------------------Exercice 3 : Promotion la plus importante -------------------
+11.
+12.
+13.
+-------------------Exercice 4 : Promotion la plus faible -------------------
+14.
+15.
+16.
+-------------------Exercice 5 : Moyenne des promotions -------------------
+17.
+18.
+19.
+-------------------Exercice 6 : Recherche d'un produit par son code -------------------
+20.
+21.
+22.
+-------------------Exercice 7 : Annuler les promotions -------------------
+23.
+24.
+25.
+-------------------Exercice 8 : Appliquer une promotion -------------------
+26.
+27.
+28.
+-------------------Exercice 9 : Appliquer une promotion à un produit -------------------
+29.
+30.
+31.
+
+
+
+
+
+
